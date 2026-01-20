@@ -70,31 +70,32 @@ Department of Computer Science & Engineering
   
 - Login & Registration
 
-  <img width="293" height="585" alt="image" src="https://github.com/user-attachments/assets/3e833a3d-8ccc-40bf-8141-6174589ff9d6" />
+ <img width="293" height="587" alt="image" src="https://github.com/user-attachments/assets/4666bdb7-2c67-4f59-9c70-dac75fda6053" />
+ 
 
-
-  
 
 - Home Page with SOS Button
 
-  <img width="505" height="774" alt="image" src="https://github.com/user-attachments/assets/4fd6afb6-b65d-4ae5-82a9-73c6b368f48b" />
 
-
-  <img width="293" height="585" alt="image" src="https://github.com/user-attachments/assets/ea4d26a7-94cd-47b4-bd8a-25d33c67e0de" />
 
   <img width="299" height="601" alt="image" src="https://github.com/user-attachments/assets/c3e095e5-31bb-4b07-845e-3c21b6686c7f" />
 
   
-<img width="296" height="593" alt="image" src="https://github.com/user-attachments/assets/529c9357-961d-4f2b-abad-f34573a478f7" />
+<img width="296" height="593" alt="image" src="https://github.com/user-attachments/assets/73f131bb-389e-44a2-ae7e-ea0dbe7e841c" />
+
+
 
 
 
 - Emergency Contacts Page
 
+<img width="295" height="593" alt="image" src="https://github.com/user-attachments/assets/c1022454-1577-4d5e-9675-9758f7ba42cc" />
 
-<img width="296" height="593" alt="image" src="https://github.com/user-attachments/assets/eb0043f2-056b-4370-a5f7-65e10fdfdb05" />
 
-<img width="296" height="593" alt="image" src="https://github.com/user-attachments/assets/c42eb5e3-f945-4610-8c5a-d44db7cd8d15" />
+<img width="436" height="743" alt="image" src="https://github.com/user-attachments/assets/23efb7a7-bce9-470d-b2f9-9c5bf4e56aa0" />
+
+
+
 
 
 
@@ -103,7 +104,10 @@ Department of Computer Science & Engineering
 
   <img width="443" height="740" alt="image" src="https://github.com/user-attachments/assets/abd36a45-abe0-4e65-94ff-32eaa9a716e7" />
 
-  
+ - live location
+   
+   <img width="505" height="774" alt="image" src="https://github.com/user-attachments/assets/4fd6afb6-b65d-4ae5-82a9-73c6b368f48b" />
+   
 
 ---
 
@@ -114,5 +118,6 @@ Department of Computer Science & Engineering
 - Android Studio / VS Code
 - Firebase Project Setup
 - Google Maps API Key
+
 
 
